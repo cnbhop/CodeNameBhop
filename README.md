@@ -8,6 +8,7 @@ Goals to Reach -
 - Create Own Linux Distro
 
 ![dirtbag](https://raw.githubusercontent.com/CodeNameBhop/CodeNameBhop/main/Packages/Images/Packages/Screenshot_485.png)
+Now go somewhere else dirtbag!
 
 [![My Most Used On...](https://github-readme-stats.vercel.app/api/top-langs/?username=codenamebhop)](https://github.com/anuraghazra/github-readme-stats)
 
