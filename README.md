@@ -1,5 +1,5 @@
 # About Me
-Hello! I am Bitrate or Bhop and i program mostly Python and UC Now.
+Hello! I am Bitrate or Bhop and i program mostly Python and UC (UnrealScript) Now.
 
 ![dirtbag](https://raw.githubusercontent.com/CodeNameBhop/CodeNameBhop/main/Packages/Images/Packages/Screenshot_485.png)
 Now go somewhere else dirtbag!
@@ -16,3 +16,7 @@ Goals to Reach -
 - Finish My Python PopDogHelper Bot
 - Create My Own Kernal
 - Create Own Linux Distro
+- Create an Unreal Engine 2 Game
+- Create a Source Engine Game
+- Start A Company ( Midnight Games )
+- Create Water, Cloth, Physics.
