@@ -1,4 +1,14 @@
+# About Me
 Hello! I am Bitrate or Bhop and i program mostly Python and UC Now.
+
+![dirtbag](https://raw.githubusercontent.com/CodeNameBhop/CodeNameBhop/main/Packages/Images/Packages/Screenshot_485.png)
+Now go somewhere else dirtbag!
+
+# Top Coding Lang
+
+[![My Most Used On...](https://github-readme-stats.vercel.app/api/top-langs/?username=codenamebhop)](https://github.com/anuraghazra/github-readme-stats)
+
+# Goals 
 
 Goals to Reach -
 - Create a Postal 2 Game Mod
@@ -6,13 +16,3 @@ Goals to Reach -
 - Finish My Python PopDogHelper Bot
 - Create My Own Kernal
 - Create Own Linux Distro
-
-![dirtbag](https://raw.githubusercontent.com/CodeNameBhop/CodeNameBhop/main/Packages/Images/Packages/Screenshot_485.png)
-Now go somewhere else dirtbag!
-
-[![My Most Used On...](https://github-readme-stats.vercel.app/api/top-langs/?username=codenamebhop)](https://github.com/anuraghazra/github-readme-stats)
-
-<!---
-CodeNameBhop/CodeNameBhop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
