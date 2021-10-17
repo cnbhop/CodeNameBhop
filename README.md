@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @CodeNameBhop
-- 👀 I’m interested in UnrealScript for Unreal Engine 2
-- 🌱 I’m currently learning UnrealScript for Unreal Engine 2
-- 📫 How to reach me Contract Me on GitHub Directly.
+Hello! I am Bitrate or Bhop and i program mostly Python and UC Now.
+
+Goals to Reach -
+- Create a Postal 2 Game Mod
+- Create a C# or C++ Game Engine
+- Finish My Python PopDogHelper Bot
+- Create My Own Kernal
+- Create Own Linux Distro
 
 [![My Most Used On...](https://github-readme-stats.vercel.app/api/top-langs/?username=codenamebhop)](https://github.com/anuraghazra/github-readme-stats)
 
