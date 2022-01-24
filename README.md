@@ -1,7 +1,7 @@
 # About Me
 Hello! I am Bitrate or Bhop and i program mostly Python and UC (UnrealScript) Now.
 
-![dirtbag](https://raw.githubusercontent.com/CodeNameBhop/CodeNameBhop/main/Packages/Images/Packages/Screenshot_485.png)
+![dirtbag](https://github.com/CodeNameBhop/CodeNameBhop/blob/main/Packages/Images/Packages/image-9.png?raw=true)
 
 Now go somewhere else dirtbag!
 
