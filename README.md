@@ -1,7 +1,7 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 
 # About Me
-Hello! I am Gavin Alford and i create games with the Source Engine. I mainly use C++ to create my programs and games but sometimes experiment with other scripting languages. I might be busy all the time since i have stuff to do. I love uploading random shit to GitHub sometimes, incase ya know if people want it or not.
+Hello! I am Gavin Alford and i create games with the Source Engine and Unreal Engine 5, I'm making a game engine at the moment as well. I mainly use C++ to create and develop programs and games, I just upload random stuff, some random, dumb shit, but don't mind me.
 
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeNameBhop&theme=github_dark" alt="CodeNameBhop" align = "center"/></p>
 
