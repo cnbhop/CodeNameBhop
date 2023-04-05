@@ -1,5 +1,9 @@
 # About Me
-Hello! I just create random stuff, game releated, web related.
+Hello! I'm currently making a game / game engine. They are pretty far along so far.
+
+⚙️ Game Engine is called Metal Engine
+💻 Has support for consoles and Windows Platforms / MacOS
+📬 My contact is on my page, or at wergburg@outlook.com
 
 
 
