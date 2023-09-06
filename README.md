@@ -1,5 +1,5 @@
 # About Me
-Hello! I'm currently making a game / game engine. They are pretty far along so far.
+Hello! I'm currently making a game at the moment, if you need anything don't be afraid to hmu.
 
 My contact is on my page, or at wergburg@outlook.com
 
